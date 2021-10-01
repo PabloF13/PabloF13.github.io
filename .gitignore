@@ -5,3 +5,4 @@
 _site
 Gemfile.lock
 pre_assets
+*.psd
