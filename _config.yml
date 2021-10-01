@@ -3,7 +3,7 @@ email: anablancodelgado@gmail.com
 timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'Ana Blanco.'
 favicon: 'assets/images/favicon.ico'
 author: Ana
 paginate: 30
@@ -30,7 +30,7 @@ authors:
     avatar: 'assets/images/sal.png'
     email: anablancodelgado@gmail.com
     web: https://casiopa.github.io/
-    linkedin: https://twitter.com/anablancodel
+    linkedin: https://www.linkedin.com/in/anablancodelgado/
     description: "Data scientist Jr."
   sal:
     name: Sal
