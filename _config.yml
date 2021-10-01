@@ -1,6 +1,6 @@
 title: "Ana Blanco"
-email: wowthemesnet@gmail.com
-timezone: UTC
+email: anablancodelgado@gmail.com
+timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -8,8 +8,8 @@ favicon: 'assets/images/favicon.ico'
 author: Ana
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: es_es
+lang: es_es
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
