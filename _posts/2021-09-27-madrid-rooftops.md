@@ -4,6 +4,7 @@ title:  "Madrid Rooftops"
 author: ana
 categories: [ Computer vision, Transfer learning ]
 image: assets/images/2021-09-27-madrid-rooftops.png
+feature: True
 ---
 
 A [Mask R-CNN](https://arxiv.org/abs/1703.06870) project for Madrid Rooftops Image Segmentation
