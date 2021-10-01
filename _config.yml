@@ -1,6 +1,6 @@
 title: "Ana Blanco"
 email: anablancodelgado@gmail.com
-timezone: UTC+1
+timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
