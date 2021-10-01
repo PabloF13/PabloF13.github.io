@@ -8,8 +8,8 @@ favicon: 'assets/images/favicon.ico'
 author: Ana
 paginate: 30
 disqus: ''
-locale: es_es
-lang: es_es
+locale: en_us
+lang: en_us
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -31,7 +31,7 @@ authors:
     email: anablancodelgado@gmail.com
     web: https://casiopa.github.io/
     twitter: https://twitter.com/anablancodel
-    description: "Data scientist Jr"
+    description: "Data scientist Jr."
   sal:
     name: Ana
     display_name: Ana
@@ -51,8 +51,9 @@ authors:
 
 # Social
 social:
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
   linkedin: https://www.linkedin.com/in/anablancodelgado/
-  twitter: https://twitter.com/AnaBlancoDel
 
 # Plugins
 plugins: 
