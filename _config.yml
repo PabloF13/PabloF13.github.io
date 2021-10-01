@@ -3,7 +3,7 @@ email: anablancodelgado@gmail.com
 timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
-#logo: 'Ana Blanco.'
+logo: 'assets/images/logo_ana.svg'
 favicon: 'assets/images/favicon.ico'
 author: Ana
 paginate: 30
