@@ -6,7 +6,7 @@ categories: [ Data analysis, Visualization ]
 image: assets/images/2021-07-29-IMDb-ratings.png
 ---
 
-[Enlace a dashboard interactivo `Streamlit EDA-IMDb`](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py)
+[Dashboard interactivo `Streamlit EDA-IMDb`](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py)
 
 ### Análisis exploratorio de datos | Películas 2014 a 2019
 Con la intención de analizar un dataset representativo de todo tipo de películas he acudido al portal IMDb, el más completo a nivel internacional. Y he extraído los datos por dos vías: 
