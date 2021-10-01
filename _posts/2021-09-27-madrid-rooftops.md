@@ -65,8 +65,3 @@ Así podemos concluir que el modelo consigue unos buenos resultados con imágene
 - Object Detection Metrics With Worked Example: https://towardsdatascience.com/on-object-detection-metrics-with-worked-example-216f173ed31e
 - Taming the Hyper-Parameters of Mask RCNN: https://medium.com/analytics-vidhya/taming-the-hyper-parameters-of-mask-rcnn-3742cb3f0e1b
 - Project Zeus, or How to Detect Rooftops using Neural Networks. A Begginer’s Guide: https://alexwhelan.medium.com/project-zeus-or-how-to-detect-rooftops-using-neural-networks-a-beginners-guide-a8efed8da28a
-
-
-
-
-
