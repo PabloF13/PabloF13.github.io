@@ -5,16 +5,11 @@ categories: [ Computer vision, Transfer learning ]
 image: assets/images/2021-09-27-madrid-rooftops.png
 ---
 
-
 A [Mask R-CNN](https://arxiv.org/abs/1703.06870) project for Madrid Rooftops Image Segmentation
 
 Enlaces con información ampliada: [Informe](Madrid%20Rooftop%20Segmentation%20-%20Resume.pdf) / [Presentación](Madrid%20Rooftops%20Segmentation%20-%20Presentacion.pdf)
 
-Ana Blanco Delgado | Septiembre de 2021
-
 ---
-
-![](notebooks/images/Intro.png "somosaguas 2021-09-13 195919.png")
 
 Este proyecto lo he realizado para el Bootcamp de Data Science en The Bridge en septiembre de 2021, como trabajo individual de Machine Learning. Mi background relacionado con la imagen y el vídeo me ha arrastrado a tareas de Computer Vision, y la idea de este proyecto me aterrizó tras escuchar un muy interesante podcast de Data Stand-Up! con el entrevistado David Rey (Chief Data Officer en Idealista). En la entrevista se menciona el proyecto de Idealista Energy que ofrece información sobre los tejados y su posible aprovechamiento para la instalación de paneles solares (área del tejado, número de paneles solares a instalar, coste aproximado de su instalación, cálculo de ahorro posterior en el consumo energético...).
 
@@ -59,7 +54,7 @@ Así podemos concluir que el modelo consigue unos buenos resultados con imágene
 
 ## Fuentes y recursos
 - Mask R-CNN paper oficial: https://arxiv.org/abs/1703.06870
-- Mask R-CNN for Object Detection and Segmentation (repositorio open-source de Matterplot): https://github.com/matterport/Mask_RCNN-
+- Mask R-CNN for Object Detection and Segmentation (repositorio open-source de Matterplot): ![](https://github.com/matterport/Mask_RCNN)
 - Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow: https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
 - Podcast Data Stand-Up! Episodio 6, con David Rey (Chief Data Officer - Idealista): https://www.spreaker.com/user/bedr0o/david-rey-chief-data-officer-idealista
 - How to Train an Object Detection Model with Keras: https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
