@@ -1,7 +1,7 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Portfolio
   url: ""
 
 - title: About
@@ -14,7 +14,7 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Portfolio
   url: ""
 
 - title: Contact
