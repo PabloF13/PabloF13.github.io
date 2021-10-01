@@ -3,7 +3,7 @@ layout: post
 title:  "Público, crítica y taquilla en IMDb"
 author: ana
 categories: [ Data analysis, Visualization ]
-image: 2021-07-29-IMDb-ratings.png
+image: assets/images/2021-07-29-IMDb-ratings.png
 ---
 
 [Enlace a dashboard interactivo `Streamlit EDA-IMDb`](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py)
