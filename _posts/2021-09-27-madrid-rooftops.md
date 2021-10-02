@@ -38,15 +38,15 @@ Para comprender mejor los resultados revisé las predicciones del modelo con el 
 (imagen del dataset de validación: pozuelo 2021-09-13 200628.png)
 
 | Predicciones                                         | AUC-PR - AR@IoU=50                           |
-|---                                                   |---                                           |
+|:---:                                                 |:---:                                         |
 |![](/assets/images/2021-09-27-Image_predicted_02.png) | ![](/assets/images/2021-09-27-AUC-PR_02.png) |
 
 
 ### Ejemplo de predicción y evaluación en imagen con casas o chalets 
 (imagen del dataset de validación: pozuelo 2021-09-13 200628.png)
 
- Predicciones | AUC-PR - AR@IoU=50
- :------------|---------------:
+ Predicciones  | AUC-PR - AR@IoU=50
+ :------------:|:---------------:
  ![](/assets/images/2021-09-27-Image_predicted_01.png) | ![](/assets/images/2021-09-27-AUC-PR_01.png)
  
 Así podemos concluir que el modelo consigue unos buenos resultados con imágenes:
