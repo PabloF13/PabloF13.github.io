@@ -33,7 +33,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     - Etalonaje y postproducción de cine y publicidad
 
 
-- Coordinadora de postproducción \| Anima2 (Grupo Globomedia) \| 1999 - 2003
++ Coordinadora de postproducción \| Anima2 (Grupo Globomedia) \| 1999 - 2003
     - Gestión departamento de edición y postproducción
     - Postproducción dibujos 3D
     - Edición Club Disney
