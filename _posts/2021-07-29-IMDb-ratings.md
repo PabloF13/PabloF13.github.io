@@ -46,7 +46,7 @@ En esta etapa hice un análisis univariante, bivariante y multivariante de los d
 ## Fuentes
 
 IMDd Datasets:
-[link text itself]: https://www.imdb.com/interfaces/
+[](https://www.imdb.com/interfaces/)
 
 IMDb. Documentación para los datasets:
 [link text itself]: https://www.imdb.com/interfaces/
