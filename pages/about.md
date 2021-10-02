@@ -5,10 +5,18 @@ permalink: "/about/"
 # image: assets/images/screenshot.png
 ---
 
-Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. Por este nuevo camino me encuentro muy motivada para afrontar nuevos retos y con muchas ganas de trabajar y aprender en equipo. Tengo capacidad para adaptarme a diferentes roles y trabajos, igual que para aprender y aplicar lo aprendido. Estoy deseando comenzar mi primer trabajo en el sector Data y aprovechar esta inercia será muy positivo para los nuevos proyectos a los que me enfente.
+Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. Por este nuevo camino me encuentro muy motivada para afrontar nuevos retos y con muchas ganas de trabajar y aprender en equipo. Tengo una gran capacidad para adaptarme a diferentes roles y trabajos, igual que para aprender y aplicar lo aprendido. Estoy deseando comenzar mi primer trabajo en el sector Data y aprovechar esta inercia será muy positivo para los nuevos proyectos a los que me enfente.
 
 
 ## Formación
+- Bootcamp Data Science \| The Bridge \| 2021
+    - Python
+    - Data Analysis
+    - Machine Learning
+    - Productivization
+<p></p>
+
+- Licenciatura Comunicación Audiovisual \| Unversidad Complutense de Madrid \| 1999
 
 
 
