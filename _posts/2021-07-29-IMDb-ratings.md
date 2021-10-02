@@ -2,7 +2,7 @@
 layout: post
 title:  "Público, crítica y taquilla en IMDb"
 author: ana
-categories: [ Data analysis, Visualization ]
+categories: [ Visualization ]
 image: assets/images/2021-07-29-IMDb-ratings.png
 ---
 
