@@ -46,19 +46,19 @@ En esta etapa hice un análisis univariante, bivariante y multivariante de los d
 ## Fuentes
 
 IMDd Datasets:
-[](https://www.imdb.com/interfaces/)
+[https://www.imdb.com/interfaces/](https://datasets.imdbws.com/)
 
 IMDb. Documentación para los datasets:
-[link text itself]: https://www.imdb.com/interfaces/
+[https://www.imdb.com/interfaces/](https://www.imdb.com/interfaces/)
 
 OECD. Tasas de cambio principales monedas por año:
-[link text itself]: https://data.oecd.org/conversion/exchange-rates.htm
+[https://data.oecd.org/conversion/exchange-rates.htm](https://data.oecd.org/conversion/exchange-rates.htm)
 
 Exchange Rates.Tasas de cambio otras monedas por año:
-[link text itself]: https://www.exchangerates.org.uk/
+[https://www.exchangerates.org.uk/](https://www.exchangerates.org.uk/)
 
 Google Developers. Listado de coordenadas de países:
-[link text itself]: https://developers.google.com/public-data/docs/canonical/countries_csv
+[https://developers.google.com/public-data/docs/canonical/countries_csv](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
 Posible map for countries after clean and merge dataframes of years:
-[link text itself]: https://towardsdatascience.com/using-python-to-create-a-world-map-from-a-list-of-country-names-cd7480d03b10
+[https://towardsdatascience.com/using-python-to-create-a-world-map-from-a-list-of-country-names-cd7480d03b10](https://towardsdatascience.com/using-python-to-create-a-world-map-from-a-list-of-country-names-cd7480d03b10)
