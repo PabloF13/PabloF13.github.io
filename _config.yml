@@ -27,13 +27,13 @@ authors:
   ana:
     name: Ana
     display_name: Ana
-    # avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/avatar.png'
     email: anablancodelgado@gmail.com
     linkedin: https://www.linkedin.com/in/anablancodelgado/
     web: https://casiopa.github.io/
     description: "Visual artist & data scientist"
   
-    
+
 # Social
 social:
   github: https://github.com/casiopa
