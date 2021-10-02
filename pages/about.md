@@ -24,7 +24,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 </div>
 
 ## Formación
-- Bootcamp Data Science \| The Bridge \| 2021
+- [Bootcamp Data Science](https://f.hubspotusercontent40.net/hubfs/5965645/Folletos%20marzo2020/DS%20-%20The%20Bridge.pdf?utm_campaign=Nurturing&utm_medium=email&_hsmi=100779205&_hsenc=p2ANqtz-_X_gK8KpvHz34ZSSarnISHs09FYl2mVzSGi2Qrfu9xKJXeP-q_GX_9FmgLtWyiDqV3KKM-DUlYz6JqcOeCEh0w09ARkpT_2-YB14l3Z5riAspCeBk&utm_content=100779205&utm_source=hs_automation) \| The Bridge \| 2021
     - Python
     - Data Analysis
     - Machine Learning
