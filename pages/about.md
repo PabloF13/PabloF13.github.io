@@ -57,6 +57,21 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     </div>
 </div>
 
+<div class="col-xs-9">
+    <div class="row">
+        <div class="col-xs-4">
+            <div>
+                <h4><i class="fa fa-male"></i> Key competencies:</h4>
+                <ul>
+                {% for item in site.technicalSkills.list %}
+                    <li>{{item.tr}}</li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
 ## Formación
 - Bootcamp Data Science \| The Bridge \| 2021
     - Python
