@@ -22,13 +22,13 @@ En DeepRacer existen 3 categorías o ligas de competición:
 
 En la competición del pasado mes de agosto (2021) quedé en la posición 125 de 1636 participantes. Lo que me clasificó para la Pro Division.
 
-![Clasifición Open Division Agosto 2021 - Casiopa](assets\images\2021-09-02-aws-deepracer-clasificacion-agosto.png)
+![Clasifición Open Division Agosto 2021 - Casiopa]("assets\images\2021-09-02-aws-deepracer-clasificacion-agosto.png")
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Y97u64mE8E" title="AWS AugustQualifier Casiopa" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p></p>
 
-
-Enlaces interesantes para comenzar en AWS DeepRacer:
-- Video: [What is AWS DeepRacer?](https://www.youtube.com/watch?v=vCt-F2HscOU)
-- Video: [Get hands on with AWS DeepRacer](https://www.youtube.com/watch?v=43zqI0n4D7A)
-- Git repo: [AWS DeepRacer Workshops](https://github.com/aws-samples/aws-deepracer-workshops)
+Enlaces interesantes para inciarse en AWS DeepRacer:
+- Vídeo: [What is AWS DeepRacer?](https://www.youtube.com/watch?v=vCt-F2HscOU)
+- Vídeo: [Get hands on with AWS DeepRacer](https://www.youtube.com/watch?v=43zqI0n4D7A)
+- Repositorio GitHub: [AWS DeepRacer Workshops](https://github.com/aws-samples/aws-deepracer-workshops)
