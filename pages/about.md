@@ -15,7 +15,8 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     - Diseño interface portales de vídeo
     - Edición, grafismo y vfx para clientes como ICEX, Cruz Roja Española, BBVA, PSOE, UNIR, Leroy Merlin y MAKRO
 
-- Docente ([PEAC Comunidad de Madrid](https://www.comunidad.madrid/servicios/empleo/acreditacion-competencias-profesionales)) \| [ISEP CEU](https://www.isepceu.es/) \| 2006-2010
+
+- Docente (Certificado de Competencias Profesionales de la Comunidad de Madrid) \| [ISEP CEU](https://www.isepceu.es/) \| 2006-2010
     - Tutora y profesora de cursos Montaje y Postproducción audiovisual (cursos para desempleados de la Comunidad de Madrid)
 
 
