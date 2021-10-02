@@ -20,7 +20,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     - Tutora y profesora de cursos Montaje y Postproducción audiovisual (cursos para desempleados de la Comunidad de Madrid)
  
 
-- Jefa Técnica \| [Intereconomía Televisión](https://eltorotv.com/) \| 2004-2006
+* Jefa Técnica \| [Intereconomía Televisión](https://eltorotv.com/) \| 2004-2006
     - Gestión equipo técnico Intereconomía TV de 35 personas
     - Grafismo productora interna Intereconomía
 
