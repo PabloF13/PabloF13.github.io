@@ -14,15 +14,24 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     - Desarrollo revistas digitales
     - Diseño interface portales de vídeo
     - Edición, grafismo y vfx para clientes como ICEX, Cruz Roja Española, BBVA, PSOE, UNIR, Leroy Merlin y MAKRO
-
+ 
 
 - Docente ([PEAC Comunidad de Madrid](https://www.comunidad.madrid/servicios/empleo/acreditacion-competencias-profesionales)) \| [ISEP CEU](https://www.isepceu.es/) \| 2006-2010
     - Tutora y profesora de cursos Montaje y Postproducción audiovisual (cursos para desempleados de la Comunidad de Madrid)
-
+ 
 
 - Jefa Técnica \| [Intereconomía Televisión](https://eltorotv.com/) \| 2004-2006
     - Gestión equipo técnico Intereconomía TV de 35 personas
     - Grafismo productora interna Intereconomía
+
+- Colorista \| Aldea Films \| 2004
+    - Etalonaje y postproducción de cine y publicidad
+
+
+- Coordinadora de postproducción \| Anima2 (Grupo Globomedia) \| 1999 - 2003
+    - Gestión departamento de edición y postproducción
+    - Postproducción dibujos 3D
+    - Edición Club Disney
 
 
 
