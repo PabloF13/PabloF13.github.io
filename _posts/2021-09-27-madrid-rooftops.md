@@ -54,15 +54,15 @@ Así podemos concluir que el modelo consigue unos buenos resultados con imágene
 - Y un número de instancias no muy superior a 20
 
 ## Fuentes y recursos
-- Mask R-CNN paper oficial: https://arxiv.org/abs/1703.06870
+- Mask R-CNN paper oficial: [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
 - Mask R-CNN for Object Detection and Segmentation (repositorio open-source de Matterplot): [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
-- Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow: https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
-- Podcast Data Stand-Up! Episodio 6, con David Rey (Chief Data Officer - Idealista): https://www.spreaker.com/user/bedr0o/david-rey-chief-data-officer-idealista
-- How to Train an Object Detection Model with Keras: https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
-- VGG Image Annotator (VIA): https://www.robots.ox.ac.uk/~vgg/software/via/
-- Map Puzzle: http://www.mappuzzle.se/
-- Google Colab: https://research.google.com/colaboratory/
-- Paneles solares para tu casa. Autoconsumo solar fotovoltáico: https://www.idealista.com/energy/
-- Object Detection Metrics With Worked Example: https://towardsdatascience.com/on-object-detection-metrics-with-worked-example-216f173ed31e
-- Taming the Hyper-Parameters of Mask RCNN: https://medium.com/analytics-vidhya/taming-the-hyper-parameters-of-mask-rcnn-3742cb3f0e1b
-- Project Zeus, or How to Detect Rooftops using Neural Networks. A Begginer’s Guide: https://alexwhelan.medium.com/project-zeus-or-how-to-detect-rooftops-using-neural-networks-a-beginners-guide-a8efed8da28a
+- Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow: [https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+- Podcast Data Stand-Up! Episodio 6, con David Rey (Chief Data Officer - Idealista): [https://www.spreaker.com/user/bedr0o/david-rey-chief-data-officer-idealista](https://www.spreaker.com/user/bedr0o/david-rey-chief-data-officer-idealista)
+- How to Train an Object Detection Model with Keras: [https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/](https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/)
+- VGG Image Annotator (VIA): [https://www.robots.ox.ac.uk/~vgg/software/via/](https://www.robots.ox.ac.uk/~vgg/software/via/)
+- Map Puzzle: [http://www.mappuzzle.se/](http://www.mappuzzle.se/)
+- Google Colab: [https://research.google.com/colaboratory/](https://research.google.com/colaboratory/)
+- Paneles solares para tu casa. Autoconsumo solar fotovoltáico: [https://www.idealista.com/energy/](https://www.idealista.com/energy/)
+- Object Detection Metrics With Worked Example: [https://towardsdatascience.com/](https://towardsdatascience.com/on-object-detection-metrics-with-worked-example-216f173ed31e)
+- Taming the Hyper-Parameters of Mask RCNN: [https://medium.com/analytics-vidhya/taming-the-hyper-parameters-of-mask-rcnn-3742cb3f0e1b](https://medium.com/analytics-vidhya/taming-the-hyper-parameters-of-mask-rcnn-3742cb3f0e1b)
+- Project Zeus, or How to Detect Rooftops using Neural Networks. A Begginer’s Guide: [https://alexwhelan.medium.com/project-zeus-or-how-to-detect-rooftops-using-neural-networks-a-beginners-guide-a8efed8da28a](https://alexwhelan.medium.com/project-zeus-or-how-to-detect-rooftops-using-neural-networks-a-beginners-guide-a8efed8da28a)
