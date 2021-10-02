@@ -12,11 +12,11 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 
 
 
-# Experiencia
+## Experiencia
 
 - Coordinadora de Postproducción \| [Vivocom](https://vivocom.eu/) \| 2006-2021
     - Coordinación departamento de postproducción
-    - Desarrollo revistas digitales
+    - Desarrollo de revistas digitales
     - Diseño interface portales de vídeo
     - Edición, grafismo y vfx para clientes como ICEX, Cruz Roja Española, BBVA, PSOE, UNIR, Leroy Merlin y MAKRO
 <p></p>
@@ -28,10 +28,11 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 * Jefa Técnica \| [Intereconomía Televisión](https://eltorotv.com/) \| 2004-2006
     - Gestión equipo técnico Intereconomía TV de 35 personas
     - Grafismo productora interna Intereconomía
+<p></p>
 
 - Colorista \| Aldea Films \| 2004
     - Etalonaje y postproducción de cine y publicidad
-
+<p></p>
 
 + Coordinadora de postproducción \| Anima2 (Grupo Globomedia) \| 1999 - 2003
     - Gestión departamento de edición y postproducción
