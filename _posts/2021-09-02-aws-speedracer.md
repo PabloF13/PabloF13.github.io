@@ -20,7 +20,7 @@ En DeepRacer existen 3 categorías o ligas de competición:
 - **Pro Division**: los ganadores de esta división pueden conseguir premios como [coches DeepRacer Evo](https://www.amazon.com/dp/B081GZSJVL), y finalmente acceder a: 
 - **Pro Division Finale**: al final de cada mes los 16 mejores corredores de la Pro Division compiten uno contra otro en una carrera que transmite en directo. El ganador es recompensado con un programa educativo de Machine Learning valorado en $20.000.
 
-En la competición del pasado mes de agosto (2021) quedé en la posición 125 de 1636 participantes. Lo que me clasificó para la Pro Division.
+En la competición del pasado mes de agosto (2021) quedé en la posición 125 de 1636 participantes. Lo que me clasificó para la Pro Division. Aquí podéis ver el Leaderboard de Agosto y el vídeo de la evaluación correspondiente:
 
 ![Clasifición Open Division Agosto 2021 - Casiopa](/assets/images/2021-09-02-aws-deepracer-clasificacion-agosto.png)
 
