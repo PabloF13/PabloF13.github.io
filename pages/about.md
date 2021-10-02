@@ -7,55 +7,6 @@ permalink: "/about/"
 Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. Por este nuevo camino me encuentro muy motivada para afrontar nuevos retos y con muchas ganas de trabajar y aprender en equipo. Tengo una gran capacidad para adaptarme a diferentes roles y trabajos, igual que para aprender y aplicar lo aprendido. Estoy deseando comenzar mi primer trabajo en el sector Data y aprovechar esta inercia será muy positivo para los nuevos proyectos a los que me enfente.
 
 
-<div class="row">
-    <div class="medium-6 columns">
-      <h3>Our history</h3>
-      <div class="spacing"></div>
-      <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-    </div>
-    <div class="medium-6 columns">
-      <h3>Our skills</h3>
-      <div class="spacing"></div>
-      <div class="mod modBarGraph">
-        <ul class="bars">
-          
-            <li>
-              <h4 style="">
-                Web Design
-                <strong>84%</strong>
-              </h4>
-              <p class="highlighted" data-percent="84" style="width: 84%; overflow: visible;"></p>
-            </li>
-          
-            <li>
-              <h4 style="">
-                Web Development
-                <strong>95%</strong>
-              </h4>
-              <p class="highlighted" data-percent="95" style="width: 95%; overflow: visible;"></p>
-            </li>
-          
-            <li>
-              <h4 style="">
-                Site Management
-                <strong>70%</strong>
-              </h4>
-              <p class="highlighted" data-percent="70" style="width: 70%; overflow: visible;"></p>
-            </li>
-          
-            <li>
-              <h4 style="">
-                Branding
-                <strong>61%</strong>
-              </h4>
-              <p class="highlighted" data-percent="61" style="width: 61%; overflow: visible;"></p>
-            </li>
-          
-        </ul>
-      </div>
-    </div>
-</div>
 
 <div class="col-xs-9">
     <div class="row">
