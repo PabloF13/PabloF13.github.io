@@ -6,5 +6,5 @@ categories: [ Reinforcement learning ]
 image: assets/images/aws-deepracer.png
 ---
 
-Una forma muy adictiva de aprender Reinforcement learning de mano de AWS.
+Una adictiva forma de aprender *reinforcement learning*.
 
