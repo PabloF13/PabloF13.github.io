@@ -22,7 +22,7 @@ En DeepRacer existen 3 categorías o ligas de competición:
 
 En la competición del pasado mes de agosto (2021) quedé en la posición 125 de 1636 participantes. Lo que me clasificó para la Pro Division.
 
-![Clasifición Open Division Agosto 2021 - Casiopa]("assets\images\2021-09-02-aws-deepracer-clasificacion-agosto.png")
+![Clasifición Open Division Agosto 2021 - Casiopa](/assets/images/2021-09-02-aws-deepracer-clasificacion-agosto.png)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Y97u64mE8E" title="AWS AugustQualifier Casiopa" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
