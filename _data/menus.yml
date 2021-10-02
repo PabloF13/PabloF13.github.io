@@ -4,6 +4,9 @@ topmenu:
 - title: Portfolio
   url: ""
 
+- title: Categories
+  url: "categories/"
+
 - title: About
   url: "about/"
 
@@ -13,6 +16,9 @@ footermenu:
 
 - title: Portfolio
   url: ""
+
+- title: Categories
+  url: "categories/"
 
 - title: About
   url: "about/"
