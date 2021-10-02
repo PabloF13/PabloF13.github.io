@@ -4,7 +4,7 @@ timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo_ana.svg'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon_ana.ico'
 author: Ana
 paginate: 30
 disqus: 'demowebsite'
