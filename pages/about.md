@@ -17,6 +17,9 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 - [Python for everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3TXDBAXPWMG9) (5 courses) \| University of Michigan - Coursera \| 2020
 <p></p>
 
+- Ingeniería Técnica en Infomática de Sistemas \| UNED \| 2001.
+    - Asignaturas aprobadas: Lógica matemática, Programación I, Programación II, Estructura y Teconlogía de Computadores I
+
 - Licenciatura Comunicación Audiovisual \| Unversidad Complutense de Madrid \| 1999
 
 
