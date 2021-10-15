@@ -27,7 +27,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 ## Experiencia
 
 
-- Data Scientist | jun 2021 - actualidad
+- Data Scientist \| freelance \| jun 2021 - actualidad
     - Data mining: Python, Selenium, BeatifulSoup
     - Data analysis: SQL, Numpy, Pandas, Matplotlib, Seaborn, Plotly
     - Machine Learning: sckit-learn, TensorFlow, Keras
