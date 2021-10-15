@@ -4,7 +4,7 @@ title:  "Público, crítica y taquilla en IMDb"
 author: ana
 categories: [ Visualization ]
 image: assets/images/2021-07-29-IMDb-ratings.png
-featured: true
+# featured: true
 ---
 
 ## [Dashboard interactivo `Streamlit EDA-IMDb`](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py)
