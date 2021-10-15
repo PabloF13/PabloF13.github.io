@@ -58,6 +58,3 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     - Gestión departamento de edición y postproducción
     - Postproducción dibujos 3D
     - Edición Club Disney
-
-
-
