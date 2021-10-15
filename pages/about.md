@@ -12,7 +12,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
     - Python
     - Data Analysis
     - Machine Learning
-    - Productivization
+    - Productivización
 <p></p>
 - [Python for everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3TXDBAXPWMG9) (5 courses) \| University of Michigan - Coursera \| 2020
 <p></p>
@@ -26,7 +26,15 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 
 ## Experiencia
 
-- Coordinadora de Postproducción \| [Vivocom](https://vivocom.eu/) \| 2006-2021
+
+- Data Scientist | jun 2021 - actualidad
+    - Data mining: Python, Selenium, BeatifulSoup
+    - Data analysis: SQL, Numpy, Pandas, Matplotlib, Seaborn, Plotly
+    - Machine Learning: sckit-learn, TensorFlow, Keras
+    - Productivización: Flask, Streamlit
+<p></p>
+
+- Coordinadora de Postproducción \| [Vivocom](https://vivocom.eu/) \| 2006 - jun 2021
     - Coordinación departamento de postproducción
     - Desarrollo de revistas digitales
     - Diseño interface portales de vídeo
