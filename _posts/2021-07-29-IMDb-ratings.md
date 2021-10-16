@@ -9,7 +9,7 @@ image: assets/images/2021-07-29-IMDb-ratings.png
 
 
 ---
-La presentación de este proyecto fue realizada mediante este dashboard web interactivo: [`Streamlit EDA-IMDb`](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py) que ha sido elegido por `Streamlit` como de caso de uso de visualización en su galería: [Streamlit Data Visualizarion Gallery](https://streamlit.io/gallery?category=data-visualization)
+La presentación de este proyecto fue realizada mediante el siguiente dashboard web interactivo: [`Streamlit EDA-IMDb`](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py) que ha sido elegido por el framework para Machine Learning y Data Science `Streamlit` como de caso de uso de visualización en su galería: [Streamlit Data Visualization Gallery](https://streamlit.io/gallery?category=data-visualization)
 
 ---
 
