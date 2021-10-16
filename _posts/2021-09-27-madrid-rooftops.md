@@ -35,7 +35,7 @@ Para ver información más detallada sobre el modelo seleccionado revisar el not
 Para comprender mejor los resultados revisé las predicciones del modelo con el dataset de validación porque tenía la intuición de que el modelo tiene un buen desempeño para la segmentación de residencias aisladas pero no de adosados o edificios. A continuación muestro ambos casos:
 
 ### Ejemplo de predicción y evaluación en imagen con edificios 
-(imagen pozuelo 2021-09-13 200628.png)
+(imagen: pozuelo 2021-09-13 200628.png)
 
 | Predicciones                                         | AUC-PR - AR@IoU=50                           |
 |:---:                                                 |:---:                                         |
@@ -43,7 +43,7 @@ Para comprender mejor los resultados revisé las predicciones del modelo con el 
 
 
 ### Ejemplo de predicción y evaluación en imagen con casas o chalets 
-(imagen pozuelo 2021-09-13 200628.png)
+(imagen: pozuelo 2021-09-13 200628.png)
 
  Predicciones  | AUC-PR - AR@IoU=50
  :------------:|:---------------:
