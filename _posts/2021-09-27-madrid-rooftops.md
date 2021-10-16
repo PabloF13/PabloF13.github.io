@@ -8,7 +8,7 @@ image: assets/images/2021-09-27-madrid-rooftops.png
 
 A [Mask R-CNN](https://arxiv.org/abs/1703.06870) project for Madrid Rooftops Image Segmentation
 
-Enlaces con información ampliada: [Informe](Madrid%20Rooftop%20Segmentation%20-%20Resume.pdf) / [Presentación](Madrid%20Rooftops%20Segmentation%20-%20Presentacion.pdf)
+Enlaces con información ampliada: [Informe](https://github.com/casiopa/Madrid_Rooftops/blob/82ffa86abe81fa0bce53a7c5e432d4827196826b/Madrid%20Rooftop%20Segmentation%20-%20Resume.pdf) / [Presentación](https://github.com/casiopa/Madrid_Rooftops/blob/82ffa86abe81fa0bce53a7c5e432d4827196826b/Madrid%20Rooftops%20Segmentation%20-%20Presentacion.pdf)
 
 ---
 
