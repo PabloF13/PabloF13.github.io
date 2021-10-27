@@ -34,7 +34,7 @@ mpg = sns.load_dataset('mpg')
 vis.corr_bars(mpg, threshold=0.6, figsize=(13, 6))
 ```
 
-![](assets\images\2021-10-10-broomlib_corr_bars.png)
+![](/assets/images/2021-10-10-broomlib_corr_bars.png)
 
 
 ## `outliers_mahalanobis_plot`
@@ -49,7 +49,7 @@ df = pd.DataFrame(diabetes.data)
 vis.outliers_mahalanobis_plot(df, extreme_points=10, figsize=(15,7), style='ggplot')
 ```
 
-![](assets/images/2021-10-10-broomlib_outliers_mahalanobis_plot.png)
+![](/assets/images/2021-10-10-broomlib_outliers_mahalanobis_plot.png)
 
 ## `pca_analisis`
 Esta función elimina las variables con baja variabilidad de un dataset dado. La idea principal es realizar un análisis de *feature importance* basado en la variabilidad de cada variable que permite determinar qué *features* aportarán menos información al futuro modelo de Machine Learning para eliminarlas.
