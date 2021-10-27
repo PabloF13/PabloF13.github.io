@@ -71,7 +71,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from numpy import where
 
-X, y = make_classification(n_samples=10000, n_features=2, n_redundant=0,n_clusters_per_class=1, weights=[0.99], flip_y=0, random_state=1)
+X, y = make_classification(n_samples=10000, n_features=2, n_redundant=0,
+                           n_clusters_per_class=1, weights=[0.99], flip_y=0, random_state=1)
 counter = Counter(y)
 print(counter)
 for label, _ in counter.items():
@@ -87,8 +88,11 @@ for label,_ in counter.items():
 plt.legend()
 plt.show()
 ```
-| `Counter({0: 9900, 1: 100})`           | `Resampled dataset samples per class Counter({0: 990, 1: 990})` |
-|:---:                                                 |:---:                                         |
-|![](/assets/images/2021-10-10-broomlib-resample01.png) | ![](/assets/images/2021-10-10-broomlib-resample02.png) |
 
-`
+ `Counter({0: 9900, 1: 100})`
+
+![](/assets/images/2021-10-10-broomlib-resample01.png)
+
+`Resampled dataset samples per class Counter({0: 990, 1: 990})`
+
+![](/assets/images/2021-10-10-broomlib-resample02.png)
