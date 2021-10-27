@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paquete Python para el procesado previo al Machine Learning"
+title:  "Broomlib. Librería de procesado previo a Machine Learning"
 author: ana
 categories: [ Visualization, Machine Learning ]
 image: assets/images/2021-10-10-broomlib-python-package.png
