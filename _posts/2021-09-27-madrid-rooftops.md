@@ -2,7 +2,7 @@
 layout: post
 title:  "Madrid Rooftops"
 author: ana
-categories: [ Computer vision ]
+categories: [ Computer vision, Transfer learning ]
 image: assets/images/2021-09-27-madrid-rooftops.png
 ---
 
