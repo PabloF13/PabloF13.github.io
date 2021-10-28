@@ -39,7 +39,7 @@ Un vez entrenado el modelo lo exportamos como objeto pickle y ya podemos empezar
 
 En este caso montaremos un endpoint al que la app *Digital&Nomads* haga una petición POST enviando los datos del usuario como un objeto JSON. Este JSON lo recibe la aplicación Flask alojada en Heroku, con esos datos el modelo hace la predicción y se devuelve otro JSON con el cluster adjudicado.
 
-![Esquema peticion POST](assets\images\nomads\API-heroku_esquema.png)
+![Esquema peticion POST](/assets/images/nomads/API-heroku_esquema.png)
 
 Para un mínimo producto viable el alojamiento gratuito de la APP en Heroku puede resultar la mejor opción aunque hay que tener en cuenta que tras 30 minutos de inactividad la aplicación entra en modo reposo y que tenemos un límite de 512MB de RAM.
 
@@ -121,26 +121,26 @@ python-3.8.8
 
 Lo siguiente que debemos hacer es abrir una cuenta en Heroku y crear una nueva app.
 
-![Nueva app en Heroku](assets\images\nomads\heroku-newApp.png)
+![Nueva app en Heroku](/assets/images/nomads/heroku-newApp.png)
 
 Si entramos en la página de la app recién creada y en la pestaña Deploy, veremos que tenemos 3 formas de alojar la aplicación en Heroku. En este caso utilicé *Connnect to GitHub*. De esta forma solo tenemos que enlazar la app con un repositorio que ya tengamos subido a GitHub. 
 
-![Deployment Methods](assets\images\nomads\heroku-deployMethod.png)
+![Deployment Methods](/assets/images/nomads/heroku-deployMethod.png)
 
 En caso de que el repositorio tenga muchos archivos que los verdaderamente necesarios para el despligue de la app será mejor utilizar la primera opción que vemos en la imagen: Heroku Git. Alojando los archivos necesarios en el Git de Heroku podemos seleccionar exactamente qué archivos subimos.
 
-![GitHub connected](assets\images\nomads\heroku-GitHubConnected.png)
+![GitHub connected](/assets/images/nomads/heroku-GitHubConnected.png)
 
 Una vez enlazada la app con nuestro repositorio en GitHub, tenemos que lanzar el deploy. Hay dos formas de hacerlo automáticamente, cada vez que se actualiza el repositorio, o manual, que se lanza clickar en el botón `Deploy Branch`. Esta última opción es la que hemos utilizamos y la que recomendamos porque se mantiene el control de cuándo se actualiza la aplicación.
 
-![Manual deploy](assets\images\nomads\heroku-ManualDeploy.png)
+![Manual deploy](/assets/images/nomads/heroku-ManualDeploy.png)
 
 ### Test con Postman
 Por último, ya solo nos queda probar que la API funciona. Para ello podemos usar Postman que es una aplicación con la que podremos probar la petición POST, enviando la info en JSON. También veremos el JSON que devuelve nuestra petición.
 
 Postman se puede utilizar como aplicación web y también se puede instalar en máquina. Nosotros utilizamos la segunda opción porque nos permitió probar la app Flask en local, antes de subirla a Heroku. Si quieres acceder a Postman utiliza este enlace: [Postman on the web](https://www.postman.com/) y si queires descargar Postman app: [Download Postman](https://www.postman.com/downloads/)
 
-![Postman App - Heroku](assets\images\nomads\postman-heroku.png)
+![Postman App - Heroku](/assets/images/nomads/postman-heroku.png)
 
 Una vez que está todo probado solo queda testarlo junto con el equipo de desarrollo que consulta la API. Suele haber alguna cosa que limar. En nuestro caso, el modelo devolvía el número de cluster incluyendo el cero. Los clusters posibles eran: `[0-3]`. Desarrollo nos pidió no hubiera ceros, así que tuvimos que sumar uno a la salida del modelo, para tener un rango de clusters posibles de `[1-4]`. Pocos cambios ;) 
 
