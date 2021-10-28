@@ -6,6 +6,14 @@ categories: [ Visualization, Machine Learning ]
 image: assets/images/2021-10-10-broomlib-python-package.png
 ---
 
+---
+
+Repositorio GitHub: [https://github.com/GonzaloPerez1/broomlib](https://github.com/GonzaloPerez1/broomlib)
+Repositorio GitHub Fork: [https://github.com/casiopa/broomlib.git](https://github.com/casiopa/broomlib.git)
+Pypi: [https://pypi.org/project/broomlib/](https://pypi.org/project/broomlib/)
+
+---
+
 ¿Tienes un deadline de Machine Learning imposible de cumplir? Esta línea de código puede ayudarte:
 ```
 pip install broomlib
