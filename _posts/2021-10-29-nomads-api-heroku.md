@@ -14,8 +14,8 @@ Repositorio GitHub: [https://github.com/casiopa/nomads_cluster_api.git](https://
 
 La app *Digital&Nomads* requería de un servicio que agrupara a los usuarios según sus intereses una vez hecho el registro y para ello hemos desarrollado una API que devuelve el grupo al que pertence cada usuario según sus intereses gracias a un modelo de clustering NMF.
 
-## Creación de un entorno virtual
 
+## Creación de un entorno virtual
 El primer paso es crear un entorno virtual en el que instalemos Python y las librerías necesarias para la lectura del modelo. Este paso es importante porque nos permitirá controlar qué versiones de Python y librerías se deben instalar en la máquina de Heroku. Esta información la volcaremos posteriormente en los archivos `runtime.txt` y `requirements.txt`. Una forma de crear el entorno virtual es utilizando conda, para lo que ejecutamos en la terminal:
 
 ```
@@ -43,8 +43,8 @@ Si escogemos los valores más altos para cada segmento nos hacemos una buena ide
 
 El preprocesado de la encuesta y el entranado del modelo pueden verse en este notebook: [NomDig_NMF.ipynb](https://github.com/casiopa/nomads_cluster_api/blob/main/model/NomDig_NMF.ipynb)
 
-## Puesta en producción del modelo NMF de clustering con Flask y Heroku
 
+## Puesta en producción del modelo NMF de clustering con Flask y Heroku
 Un vez entrenado el modelo lo exportamos como objeto pickle y ya podemos empezar a crear la API que dará el servicio. El proceso se activará en el momento en el que usuario, de manera opcional, rellena un formulario con sus intereses para que la aplicación le asigne un sala de chat con usuarios de intereses relacionados y que se encuentren en la misma ciudad.
 
 En este caso montaremos un endpoint al que la app *DigitalAndNomads* haga una petición POST enviando los datos del usuario como un objeto JSON. Este JSON lo recibe la aplicación Flask alojada en Heroku, con esos datos el modelo hace la predicción y se devuelve otro JSON con el cluster adjudicado.
