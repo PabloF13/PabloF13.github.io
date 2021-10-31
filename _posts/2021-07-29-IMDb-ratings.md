@@ -4,7 +4,7 @@ title:  "Público, crítica y taquilla en IMDb"
 author: ana
 categories: [ Visualization ]
 image: assets/images/2021-07-29-IMDb-ratings.png
-# featured: true
+featured: true
 ---
 
 

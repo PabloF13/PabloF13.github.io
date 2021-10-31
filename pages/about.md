@@ -23,9 +23,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 - Licenciatura Comunicación Audiovisual \| Unversidad Complutense de Madrid \| 1999
 
 
-
 ## Experiencia
-
 
 - Data Scientist \| freelance \| jun 2021 - actualidad
     - Data mining: Python, Selenium, BeatifulSoup
