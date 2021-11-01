@@ -37,7 +37,7 @@ En esta etapa hice un análisis univariante, bivariante y multivariante de los d
 ## Herramientas utilizadas
 
 | Web scrapping 		| Data mining		| Visualización  	|
-|---					|---				|---				|
+|-----------------------|-------------------|-------------------|
 | - Visual Studio Code	| - Jupyter Lab		| - Streamlit		|
 | - Python				| - Python			| - Python			|
 | - Pandas				| - Regex			| - Regex			|
