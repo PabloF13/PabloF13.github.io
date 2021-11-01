@@ -1,11 +1,11 @@
-title: "Ana Blanco Delgado Portfolio"
+title: "Ana Blanco Delgado | Data Science Portfolio"
 email: anablancodelgado@gmail.com
 timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo_ana.svg'
 favicon: 'assets/images/favicon_ana.ico'
-author: Ana
+author: Ana Blanco Delgado
 paginate: 30
 disqus: 'demowebsite'
 locale: es_es
@@ -25,13 +25,13 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   ana:
-    name: Ana
+    name: Ana Blanco Delgado
     display_name: Ana
     avatar: 'assets/images/avatar.png'
     email: anablancodelgado@gmail.com
     linkedin: https://www.linkedin.com/in/anablancodelgado/
     web: https://casiopa.github.io/
-    description: "Visual artist & data scientist"
+    description: "Data scientist Jr"
   
 
 # Social
