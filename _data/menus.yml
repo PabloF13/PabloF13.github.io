@@ -7,7 +7,7 @@ topmenu:
 - title: Categories
   url: "categories/"
 
-- title: About
+- title: About me
   url: "about/"
 
 
@@ -20,5 +20,5 @@ footermenu:
 - title: Categories
   url: "categories/"
 
-- title: About
+- title: About me
   url: "about/"
