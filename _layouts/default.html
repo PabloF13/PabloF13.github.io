@@ -41,6 +41,8 @@ gtag('config', '{{site.ganalytics}}');
 </script>
 {% endif %}
    
+{% include analytics.html %}
+
 </head>   
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
