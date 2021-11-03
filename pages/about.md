@@ -4,7 +4,7 @@ title: About me
 permalink: "/about/"
 ---
 
-Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. Por este nuevo camino me encuentro muy motivada para afrontar nuevos retos y con muchas ganas de trabajar y aprender en equipo. Tengo una gran capacidad para adaptarme a diferentes roles y trabajos, igual que para aprender y aplicar lo aprendido. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
+Siempre ligada a la tecnología audiovisual, este 2021 he decidido hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. He utilizado diferentes herramientas formativas online y acabo de terminar un bootcamp de Data Science. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
 
 
 ## Formación
@@ -25,7 +25,7 @@ Siempre ligada a la teconología audiovisual, este 2021 he decidido hacer más i
 
 ## Experiencia
 
-- Data Scientist \| freelance \| jun 2021 - actualidad
+- Data Scientist \| freelance \| sept 2021 - actualidad
     - Data mining: Python, Selenium, BeatifulSoup
     - Data analysis: SQL, Numpy, Pandas, Matplotlib, Seaborn, Plotly
     - Machine Learning: sckit-learn, TensorFlow, Keras
