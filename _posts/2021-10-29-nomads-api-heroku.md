@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "API para segmentación de usuarios en Heroku"
+title:  "API Flask para segmentación de usuarios en Heroku"
 author: ana
 categories: [ Flask, Heroku, Machine Learning ]
 image: assets/images/2021-10-29-nomads-api-heroku.png
