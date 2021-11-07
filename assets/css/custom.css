@@ -4,3 +4,8 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+.hero {
+    background: #fdd93d;
+    padding: 3rem 3rem;
+}
