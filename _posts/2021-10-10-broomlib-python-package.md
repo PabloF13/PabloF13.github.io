@@ -92,7 +92,7 @@ sns.scatterplot(X_resampled.T[0], X_resampled.T[1], hue=y_resampled)
 plt.show()
 ```
 
- `Counter({0: 9900, 1: 100})`
+ `Original dataset: Counter({0: 9900, 1: 100})`
 
 ![](/assets/images/2021-10-10-broomlib-resample01.png)
 
