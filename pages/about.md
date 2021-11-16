@@ -20,7 +20,7 @@ Siempre ligada a la tecnología audiovisual, este 2021 he decidido hacer más in
 - Ingeniería Técnica en Infomática de Sistemas (24 créditos) \| UNED \| 2001
     - Asignaturas aprobadas: Lógica matemática, Programación I, Programación II, Estructura y Tecnología de Computadores I
 
-- Licenciatura Comunicación Audiovisual \| Unversidad Complutense de Madrid \| 1999
+- Licenciatura Comunicación Audiovisual \| Universidad Complutense de Madrid \| 1999
 
 
 ## Experiencia
