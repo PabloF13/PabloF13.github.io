@@ -2,15 +2,16 @@
 layout: post
 title:  "Público, crítica y taquilla en IMDb"
 author: ana
-categories: [ Visualization ]
+categories: [ Visualization, Streamlit ]
 image: assets/images/2021-07-29-IMDb-ratings.png
 featured: true
 ---
 
+Único proyecto en lengua no inglesa elegido por Streamlit en su web como ejemplo de visualización de datos.
 
 ---
 
-La presentación de este proyecto fue realizada mediante el siguiente dashboard web interactivo: [**`Streamlit EDA-IMDb`**](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py) que fue elegido por el framework para Machine Learning y Data Science `Streamlit` como de caso de uso de visualización en su galería de visualización durante el mes de octubre de 2021.
+La presentación de este proyecto fue realizada mediante el siguiente dashboard web interactivo: [**`Streamlit EDA-IMDb`**](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py) que ha sido elegido por el framework para Machine Learning y Data Science `Streamlit` como de caso de uso de visualización en su [galería de visualización](https://streamlit.io/gallery?category=data-visualization).
 
 ---
 
