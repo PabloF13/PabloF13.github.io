@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Base de datos PostgreSQL desplegada en Heroku"
+title:  Base de datos PostgreSQL desplegada en Heroku
 author: ana
 categories: [ PostgreSQL, Heroku ]
 image: assets/images/2021-10-27-nomads-postgresql-heroku.png
@@ -8,14 +8,14 @@ image: assets/images/2021-10-27-nomads-postgresql-heroku.png
 
 
 
-Tras la pandemia y la generalización del teletrabajo han emergido los nómadas digitales, las personas que trabajan desde cualquier parte del mundo. Un poco de envidia sí que dan, ¿verdad?. Con este target en mente, antigüos estudiantes de The Bridge estamos desarrollando la app *Digital&Nomads*.
+Tras la pandemia y la generalización del teletrabajo han emergido los nómadas digitales, las personas que trabajan desde cualquier parte del mundo. Un poco de envidia sí que dan, ¿verdad? Con este target en mente, antigüos estudiantes de The Bridge estamos desarrollando la app *Digital&Nomads*.
 
-Una parte importante de la aplicación son los datos propios de cada una de las ciudades españolas como destinos ideales para nómadas digitales. Datos como el coste de vida de la ciudad, información del tiempo y temperatura media los almacenamos en una base de datos. El equipo de Data y de Full Stack nos decidimos por montarla en `PostgreSQL` y alojarla en un servidor gratuito para la prueba de concepto, como es `Heroku`.
+Una parte importante de la aplicación son los datos propios de cada una de las ciudades españolas que consideramos destinos ideales para nómadas digitales. Datos como el coste de vida de la ciudad, información del tiempo y conexión de banda ancha, los tenemos que almacenar en una base de datos. El equipo de Data y de Full Stack nos decidimos por montarla en `PostgreSQL` y alojarla en un servidor gratuito para la prueba de concepto, como es `Heroku`.
 
 A continuación explico los pasos para crear una base de datos PostgreSQL en Heroku y como hacer la subida de algunos registros con `Python` y `SQLAlchemy`.
 
 ## Creación aplicación en Heroku con base de datos PostgreSQL
-Lo primero es crear una [cuenta gratuita en Heroku](https://signup.heroku.com/login). Después debemos crear una app en Heroku en el botón `New` que está arriba a la derecha.
+Lo primero es crear una [cuenta gratuita en Heroku](https://signup.heroku.com/login) y después crear la app Heroku, para lo que tenemos que pulsar en el botón `New`, arriba a la derecha.
 
 ![Nueva app en Heroku](/assets/images/nomads/heroku-newApp.png)
 
@@ -27,9 +27,9 @@ Tras la búsqueda nos aparecerá un *pop-up* en el que tenemos que dejar selecci
 
 ![Creación de add-on Postgres en Heroku](/assets/images/nomads/heroku-postgresql-submit.png)
 
-![Creación de add-on Postgres en Heroku](/assets/images/nomads/heroku-postgresql-submit.png)
+![Creación de add-on Postgres en Heroku](/assets/images/nomads/heroku-postgresql-addon.png)
 
-Si accedemos al *add-on Heroku Postgres* veremos toda la información de la base de datos como el tamaño y número de registros. Las credenciales para conectarnos a la base de datos las podemos ver en la pestaña Settings si pulsamos el botón `View credentials...`.
+Si accedemos al *add-on Heroku Postgres* veremos toda la información de la base de datos como el tamaño y número de registros. Las credenciales para conectarnos a la base de datos las podemos ver en la pestaña Settings si pulsamos el botón `View credentials...`
 
 ## Conexión a la base de datos PostgreSQL con Python
 
