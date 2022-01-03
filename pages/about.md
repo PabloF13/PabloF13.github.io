@@ -4,7 +4,7 @@ title: About me
 permalink: "/about/"
 ---
 
-Siempre ligada a la tecnología audiovisual, este 2021 he decidido hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. He utilizado diferentes herramientas formativas online y acabo de terminar un bootcamp de Data Science. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
+Siempre ligada a la tecnología audiovisual, hace un año decidí hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. He utilizado diferentes herramientas formativas online y un bootcamp de Data Science. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
 
 
 ## Formación
@@ -14,6 +14,10 @@ Siempre ligada a la tecnología audiovisual, este 2021 he decidido hacer más in
     - Machine Learning
     - Productivización
 <p></p>
+
+- [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/XAGD235K88H2) (5 courses) \| University of Michigan - Coursera \| 2021
+<p></p>
+
 - [Python for everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3TXDBAXPWMG9) (5 courses) \| University of Michigan - Coursera \| 2020
 <p></p>
 
