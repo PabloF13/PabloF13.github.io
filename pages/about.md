@@ -4,7 +4,7 @@ title: About me
 permalink: "/about/"
 ---
 
-Siempre ligada a la tecnología audiovisual, hace un año decidí hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. He utilizado diferentes herramientas formativas online y un bootcamp de Data Science. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
+Siempre ligada a la tecnología audiovisual, hace un año decidí hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. He utilizado diferentes herramientas formativas online y realizado un bootcamp de Data Science. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
 
 
 ## Formación
