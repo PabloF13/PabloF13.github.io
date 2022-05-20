@@ -3,7 +3,7 @@ email: pfaur.data@gmail.com
 timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo_ana.svg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Pablo Faura Sanz
 paginate: 30
