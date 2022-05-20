@@ -1,11 +1,11 @@
-title: "Ana Blanco Delgado | Data Science Portfolio"
-email: anablancodelgado@gmail.com
+title: "Pablo Faura Sanz | Data Science Portfolio"
+email: pfaur.data@gmail.com
 timezone: UTC+1
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo_ana.svg'
 favicon: 'assets/images/favicon_ana.ico'
-author: Ana Blanco Delgado
+author: Pablo Faura Sanz
 paginate: 30
 disqus: 'demowebsite'
 locale: es_es
@@ -24,20 +24,20 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  ana:
-    name: Ana Blanco Delgado
+  pablo:
+    name: Pablo Faura Sanz
     display_name: Ana
     avatar: 'assets/images/avatar.png'
-    email: anablancodelgado@gmail.com
-    linkedin: https://www.linkedin.com/in/anablancodelgado/
-    web: https://casiopa.github.io/
+    email: pfaur.data@gmail.com
+    linkedin: https://www.linkedin.com/in/pablo-faura-sanz-datascience-mba
+    web: https://pablof13.github.io/
     description: "Data scientist Jr"
   
 
 # Social
 social:
-  github: https://github.com/casiopa
-  linkedin: https://www.linkedin.com/in/anablancodelgado/
+  github: https://github.com/pablof13
+  linkedin: https://www.linkedin.com/in/pablo-faura-sanz-datascience-mba
 
 # Plugins
 plugins: 
