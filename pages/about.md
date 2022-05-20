@@ -4,7 +4,9 @@ title: About me
 permalink: "/about/"
 ---
 
-Siempre ligada a la tecnología audiovisual, hace un año decidí hacer más interesante mi vida e incorporar los datos y la automatización digital a mi día a día. He utilizado diferentes herramientas formativas online y realizado un bootcamp de Data Science. Actualmente me encuentro haciendo algunos proyectos de automatización y análisis de datos como freelance.
+Tras terminar mis estudios en economía, seguí aumentando mis conocimientos en finanzas modelizando y haciendo análisis de compañías como los que puedes encontrar en este blog. De manera complementaria también me he iniciado en el análisis de datos y la metodología quant con python. 
+
+Otras de mis aficiones son el deporte y los videojuegos, por lo que he realizado también un MBA en Sports Management y muchas de las empresas que analizo y algunos de los proyectos Data Science que llevo a cabo pertenecen a estos sectores.  
 
 
 ## Formación
@@ -15,48 +17,21 @@ Siempre ligada a la tecnología audiovisual, hace un año decidí hacer más int
     - Productivización
 <p></p>
 
-- [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/XAGD235K88H2) (5 courses) \| University of Michigan - Coursera \| 2021
-<p></p>
+- MBA Sports Management | Unisport Management School | 2021-2022
+ 
+- Grado en Economía | Universidad Autónoma Madrid | Grupo Cooperación Educativa | 2016-2021
 
-- [Python for everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3TXDBAXPWMG9) (5 courses) \| University of Michigan - Coursera \| 2020
-<p></p>
-
-- Ingeniería Técnica en Infomática de Sistemas (24 créditos) \| UNED \| 2001
-    - Asignaturas aprobadas: Lógica matemática, Programación I, Programación II, Estructura y Tecnología de Computadores I
-
-- Licenciatura Comunicación Audiovisual \| Universidad Complutense de Madrid \| 1999
+- Otros estudios:
+    - Experto en Coaching Deportivo y Psicología del Alto Rendimiento | Unisport Management School | 2022-2022
 
 
 ## Experiencia
 
-- Data Scientist \| freelance \| sept 2021 - actualidad
-    - Data mining: Python, Selenium, BeatifulSoup
-    - Data analysis: SQL, Numpy, Pandas, Matplotlib, Seaborn, Plotly
-    - Machine Learning: sckit-learn, TensorFlow, Keras
-    - Productivización: Flask, Streamlit
+- Departamento Financiero \| Prácticas \| ene 2019 - dic 2019
+    - Contabilidad
+    - Tesorería
+    - Facturación
+    
 <p></p>
 
-- Coordinadora de Postproducción \| [Vivocom](https://vivocom.eu/) \| 2006 - jun 2021
-    - Coordinación departamento de postproducción
-    - Desarrollo de revistas digitales
-    - Diseño interface portales de vídeo
-    - Edición, grafismo y vfx para clientes como ICEX, Cruz Roja Española, BBVA, PSOE, UNIR, Leroy Merlin y MAKRO
-<p></p>
 
-- Docente ([PEAC Comunidad de Madrid](https://www.comunidad.madrid/servicios/empleo/acreditacion-competencias-profesionales)) \| [ISEP CEU](https://www.isepceu.es/) \| 2006-2010
-    - Tutora y profesora de cursos Montaje y Postproducción audiovisual (cursos para desempleados de la Comunidad de Madrid)
-<p></p> 
-
-- Jefa Técnica \| [Intereconomía Televisión](https://eltorotv.com/) \| 2004-2006
-    - Gestión equipo técnico Intereconomía TV de 35 personas
-    - Grafismo productora interna Intereconomía
-<p></p>
-
-- Colorista \| Aldea Films \| 2004
-    - Etalonaje y postproducción de cine y publicidad
-<p></p>
-
-- Coordinadora de postproducción \| Anima2 (Grupo Globomedia) \| 1999 - 2003
-    - Gestión departamento de edición y postproducción
-    - Postproducción dibujos 3D
-    - Edición Club Disney
