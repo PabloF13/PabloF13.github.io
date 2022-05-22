@@ -39,6 +39,7 @@ Pese a ello, Cyberpunk 2077 logró vender casi el doble de unidades que The Witc
 En 2021 el estudio ha trabajado en el lanzamiento de numerosos y enormes parches con la intención de arreglar y mejorar todo lo posible el estado del juego. Aunque este ha pasado de tener críticas muy negativas a positivas, el juego sigue estando muy lejos de lo prometido y esperado en su día. La compañía ha recobrado parte de la confianza perdida y hace mirar con expectación al próximo gran lanzamiento, que será el regreso de la saga The Witcher. Aun así, es de esperar que este lanzamiento no se produzca al menos hasta dentro de 4 años, ya que como comentábamos anteriormente, el desarrollo de los grandes títulos es cada vez más espaciado en el tiempo. Además, el trabajo en dichos parches ha retrasado los planes de la empresa, ya que aún no han salido o se han retrasado lanzamientos esperados para mucho antes, como una expansión de contenido para el propio Cyberpunk 2077, o The Witcher 3 para la nueva generación de consolas. El lanzamiento de expansiones, ediciones mejoradas, recopilatorios o el estreno en nuevas consolas es la forma de suavizar el ciclo entre grandes lanzamientos que tienen este tipo de compañías. El retraso de estas ha propiciado que los márgenes de la compañía hayan sufrido su mayor contracción hasta la fecha. La estrategia de centrarse en el desarrollo de un solo videojuego a la vez resulta arriesgado visto los resultados de Cyberpunk 2077, por lo que a medio plazo el estudio tiene entre sus planes desarrollar más de un título a la vez dividiendo el estudio en dos equipos indepedientes.
 
 ![](/assets/images/cdr_img/projects.png)
+
 *Fuente:CDProjeckt Investor Relations*
 
 ### Resto del negocio
@@ -48,12 +49,15 @@ CD Projeckt lanzó GOG (Good Old Games)en 2008, su propia tienda digital de vent
 ## Análisis financiero
 
 ![](/assets/images/cdr_img/incomestate.png)
+
 *Fuente: elaboración propia en Excel con los datos de CDProjeckt Investor Relations*
 
 ![](/assets/images/cdr_img/cashflow.png)
+
 *Fuente: elaboración propia en Excel con los datos de CDProjeckt Investor Relations*
 
 ![](/assets/images/cdr_img/returns.png)
+
 *Fuente: elaboración propia en Excel con los datos de CDProjeckt Investor Relations*
 
 A pesar de que algunas empresas del sector los son, CDProjeckt no se trata de una empresa de crecimiento de tipo growth. Se trata de una compañía cíclica, pero con una industria en crecimiento y que ha creado valor con el paso del tiempo con una saga única que ha fidelizado a miles de fans. También, el consecutivo éxito en sus lanzamientos y crecimiento en sus ingresos, permite abordar proyectos cada vez más ambiciosos, varios proyectos a la vez o la posible compra de otros estudios más pequeños.
