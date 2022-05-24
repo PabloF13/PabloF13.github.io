@@ -3,7 +3,7 @@ layout: post
 title:  "Backtesting Dow 30 -Streamlit"
 author: pablo
 categories: [ Analisis Financiero, Streamlit ]
-image: assets/images/Dow/inicio.jpg
+image: assets/images/Dow/inicio.png
 featured: true
 ---
 
@@ -21,20 +21,20 @@ Dada una cartera y unas comisiones ficticias se muestran los retornos obtenidos 
 
 El RSI muestra un posible cambio de tendencia debido a la posible sobre compra o venta del activo. Esto es así cuando cruza las bandas tanto por arriba como por abajo.
 
-![](/assets/images/Dow/images/rsi.png)
+![](/assets/images/Dow/rsi.png)
 
 La volatilidad muestra la variación del precio del activo respecto a su media en el periodo de tiempo seleccionado.
 
-![](/assets/images/Dow/images/volat.png)
+![](/assets/images/Dow/volat.png)
 
 ### Indicadores Técnicos Investing.com
 
 Esta función recoge la suma de los indicadores técnicos que nos ofrece la acción para cada uno de los 30 activos. Esta información la obtenemos gracias a la api de investing, *investpy*, y la podemos encontrar en la propia web [https://es.investing.com/technical/indicators](https://es.investing.com/technical/indicators)
 
-![](/assets/images/Dow/images/itec.png)
+![](/assets/images/Dow/itec.png)
 
 ### Rentabilidad
 
 Se muestra la rentabilidad diaria, desde el cierre anterior y de las últimas 52 semanas.
 
-![](/assets/images/Dow/images/rentabilidad.png)
+![](/assets/images/Dow/rentabilidad.png)
