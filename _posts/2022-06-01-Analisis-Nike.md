@@ -19,7 +19,7 @@ Nike es una de las mayores y más reconocibles marcas del mundo. No solo es líd
 
 ![](/assets/images/nike_img/salescap.jpg)
 
-![](/assets/images/nike_img/favorite.jpg)
+![](/assets/images/nike_img/favorite.jpeg)
 
 #### Economía de escala
 
@@ -35,7 +35,7 @@ Estas ventajas competitivas le permiten tener un poder de fijación de precios m
 
 El crecimiento de la empresa se basa fundamentalmente en dos pilares. El primero de ellos es el crecimiento vía precios, el cuál de media ha venido aumentando un 3% anual de media en los últimos años, mayor al de la inflación. Esto es debido a su poder de fijación de precios. En segundo lugar, el crecimiento progresivo de la población y de un aumento de la cantidad de clase media-alta en el mundo que demande sus productos, especialmente en China y el sudeste asiático.
 
-![](/assets/images/nike_img/mclass.jpg)
+![](/assets/images/nike_img/mclass.jpeg)
 
 Además, Nike solo realiza un 40% de sus ventas de manera directa al consumidor. Mientras que el resto lo hace a través de vendedores mayoristas como *Foot Locker* o *JD Sports*. Su objetivo a medio plazo es aumentar la cuota de venta directa, especialmente a través de la venta online, ya que de esta manera los márgenes son mayores.
 
