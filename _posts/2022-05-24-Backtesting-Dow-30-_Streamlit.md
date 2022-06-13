@@ -1,40 +1,32 @@
 ---
 layout: post
-title:  "Backtesting Dow 30 -Streamlit"
+title:  "Dow 30 Terminal -Streamlit"
 author: pablo
 categories: [ Analisis Financiero, Streamlit ]
-image: assets/images/Dow/inicio.png
+image: assets/img_stream/forecasting.png
 featured: true
 ---
 
-Vamos a crear una función que nos permita realizar backtesting en diferentes estrategias de trading en el índice Dow Jones 30. También, vamos a desarrollar funciones que nos sirvan de indicadores complementarios como el RSI, la volatilidad, la rentabilidad de los activos o la suma de los indicadores que nos proporciona la web Investing.com.
+# Dow Jones 30 Terminal
 
-Además, vamos a utilizar el framework de visualización Streamlit para mostrarlo todo de una manera gráfica e interactiva.
+Vamos a utilizar el framework de visualización de Streamlit para simular una terminal de datos financieros en la que podamos consultar datos como rentabilidad, noticias, análisis de sentimiento, predicción etc. de los 30 valores del Dow Jones Index
 
-### Backtesting
+*Enlace* [https://share.streamlit.io/pablof13/dow-30-terminal_streamlit/main/main.py[]()](https://share.streamlit.io/pablof13/dow-30-terminal_streamlit/main/main.py)
 
-Dada una cartera y unas comisiones ficticias se muestran los retornos obtenidos desde la fecha seleccionada para las estrategias del cruce de medias móviles de 25, 50, 100 y 200 periodos.
+![](/assets/img_stream/djia.png)
+*Rentabilidad diaria y anual*
 
-![](/assets/images/Dow/backtesting.png)
+![](/assets/img_stream/news.png)
+*Noticias y análisis de sentimiento de estas*
 
-### RSI y volatilidad
+![](/assets/img_stream/rent.png)
+*Rentabilidad diaria y anual en orden descendente diario*
 
-El RSI muestra un posible cambio de tendencia debido a la posible sobre compra o venta del activo. Esto es así cuando cruza las bandas tanto por arriba como por abajo.
+![](/assets/img_stream/rsi.png)
+*Indicador RSI e indicadores de volatilidad*
 
-![](/assets/images/Dow/rsi.png)
+![](/assets/img_stream/ti.png)
+*Suma de indicadores técnicos*
 
-La volatilidad muestra la variación del precio del activo respecto a su media en el periodo de tiempo seleccionado.
-
-![](/assets/images/Dow/volat.png)
-
-### Indicadores Técnicos Investing.com
-
-Esta función recoge la suma de los indicadores técnicos que nos ofrece la acción para cada uno de los 30 activos. Esta información la obtenemos gracias a la api de investing, *investpy*, y la podemos encontrar en la propia web [https://es.investing.com/technical/indicators](https://es.investing.com/technical/indicators)
-
-![](/assets/images/Dow/itec.png)
-
-### Rentabilidad
-
-Se muestra la rentabilidad diaria, desde el cierre anterior y de las últimas 52 semanas.
-
-![](/assets/images/Dow/rentabilidad.png)
+![](/assets/img_stream/backtesting.png)
+*Backtesting de estrategias de trading*
