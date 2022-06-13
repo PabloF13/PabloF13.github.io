@@ -3,7 +3,7 @@ layout: post
 title:  "Dow 30 Terminal -Streamlit"
 author: pablo
 categories: [ Analisis Financiero, Streamlit ]
-image: assets/img_stream/forecasting.png
+image: assets/images/img_stream/forecasting.png
 featured: true
 ---
 
@@ -13,20 +13,20 @@ Vamos a utilizar el framework de visualización de Streamlit para simular una te
 
 *Enlace* [https://share.streamlit.io/pablof13/dow-30-terminal_streamlit/main/main.py](https://share.streamlit.io/pablof13/dow-30-terminal_streamlit/main/main.py)
 
-![](/assets/img_stream/djia.png)
+![](/assets/images/img_stream/djia.png)
 *Rentabilidad diaria y anual*
 
-![](/assets/img_stream/news.png)
+![](/assets/images/img_stream/news.png)
 *Noticias y análisis de sentimiento de estas*
 
-![](/assets/img_stream/rent.png)
+![](/assets/images/img_stream/rent.png)
 *Rentabilidad diaria y anual en orden descendente diario*
 
-![](/assets/img_stream/rsi.png)
+![](/assets/images/img_stream/rsi.png)
 *Indicador RSI e indicadores de volatilidad*
 
-![](/assets/img_stream/ti.png)
+![](/assets/images/img_stream/ti.png)
 *Suma de indicadores técnicos*
 
-![](/assets/img_stream/backtesting.png)
+![](/assets/images/img_stream/backtesting.png)
 *Backtesting de estrategias de trading*
