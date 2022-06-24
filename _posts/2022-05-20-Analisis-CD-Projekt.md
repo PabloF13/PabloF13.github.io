@@ -3,7 +3,7 @@ layout: post
 title:  "Análisis CD Projekt"
 author: pablo
 categories: [ Analisis Financiero, Modelizacion ]
-image: assets/images/cdr_img/logo.jpg
+image: assets/images/cdr_img/logo.png
 featured: true
 ---
 
