@@ -3,7 +3,7 @@ layout: post
 title:  "Análisis Nike"
 author: pablo
 categories: [ Analisis Financiero, Modelizacion ]
-image: assets/images/nike_img/logo.jpg
+image: assets/images/nike_img/logo.png
 ---
 
 Nike es uno de los mejores y más rentables negocios del mundo, lo que la hace tener una valoración realmente exigente en bolsa. Por ello y pese a ser una empresa de tan alta calidad, no suele ofrecer una gran rentabilidad a medio y largo plazo. Sin embargo, tras las caídas generales del mercado en lo que va de año, la acción arrastra más de un 30% de retroceso. Es momento de analizar si a esta valoración es un momento en el que  puede ofrecernos unos retornos considerables.
